@@ -219,23 +219,11 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 
 ---
 
-## 👨‍💻 Author
-
-**Pradeesh Vasu**          
-📧 *E-mail id:* [pradeeshvasu22@gmail.com]                              
-🌐 *github:* [https://github.com/PradeeshVasu]                              
-💼 *LinkedIn:* [linkedin.com/in/pradeesh-vasu-03486b319](https://www.linkedin.com/in/pradeesh-vasu-03486b319)                            
+## 👨‍💻 Author                          
 **Sai Vadalakonda**                     
 📧 *E-mail id:* [sai2592004@gmail.com]            
 🌐 *github:* [https://github.com/sai-vadlakonda]                  
 💼 *LinkedIn:* [https://www.linkedin.com/in/sai-vadlakonda/]                              
-**Sai Surya**                        
-**Ekta Sharma**                        
-**Pavan Kumar**                                      
-
-
- 
-
 
 ---
 
